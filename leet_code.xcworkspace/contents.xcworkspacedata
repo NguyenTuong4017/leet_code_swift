@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:palindrome_number.playground">
+   </FileRef>
+   <FileRef
+      location = "group:length_of_last_word.playground">
+   </FileRef>
+   <FileRef
+      location = "group:plus_one.playground">
+   </FileRef>
+   <FileRef
+      location = "group:roman_to_int.playground">
+   </FileRef>
+   <FileRef
+      location = "group:unique_number_of_occurrences.playground">
+   </FileRef>
+   <FileRef
+      location = "group:determine_string.playground">
+   </FileRef>
+   <FileRef
+      location = "group:two_sum.playground">
+   </FileRef>
+</Workspace>
