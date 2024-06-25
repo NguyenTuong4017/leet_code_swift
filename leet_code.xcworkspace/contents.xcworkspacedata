@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:first_unique_character.playground">
+   </FileRef>
+   <FileRef
+      location = "group:single_number.playground">
+   </FileRef>
+   <FileRef
       location = "group:palindrome_number.playground">
    </FileRef>
    <FileRef
