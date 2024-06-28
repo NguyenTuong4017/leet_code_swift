@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:first_letter_appear_twice.playground">
+   </FileRef>
+   <FileRef
       location = "group:first_unique_character.playground">
    </FileRef>
    <FileRef
