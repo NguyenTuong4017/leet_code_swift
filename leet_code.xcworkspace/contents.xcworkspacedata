@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:percentage_of_a_letter.playground">
+   </FileRef>
+   <FileRef
       location = "group:first_letter_appear_twice.playground">
    </FileRef>
    <FileRef
