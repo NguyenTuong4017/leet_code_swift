@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:divide_a_string_into_groups.playground">
+   </FileRef>
+   <FileRef
       location = "group:percentage_of_a_letter.playground">
    </FileRef>
    <FileRef
