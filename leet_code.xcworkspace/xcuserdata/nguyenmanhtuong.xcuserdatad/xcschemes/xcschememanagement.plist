@@ -151,6 +151,27 @@
 			<key>orderHint</key>
 			<integer>18</integer>
 		</dict>
+		<key>minimum_common_value (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>minimum_common_value (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>minimum_common_value (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
 		<key>missing_number (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>

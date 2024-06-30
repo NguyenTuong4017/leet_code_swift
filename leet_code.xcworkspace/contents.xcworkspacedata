@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:minimum_common_value.playground">
+   </FileRef>
+   <FileRef
       location = "group:power_of_two.playground">
    </FileRef>
    <FileRef
