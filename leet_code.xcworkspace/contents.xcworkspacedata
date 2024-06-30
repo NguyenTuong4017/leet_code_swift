@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:first_palindrome.playground">
+   </FileRef>
+   <FileRef
       location = "group:missing_number.playground">
    </FileRef>
    <FileRef
